@@ -1,0 +1,6 @@
+{
+  "name": "core-kit72",
+  "version": "1.2.0",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
